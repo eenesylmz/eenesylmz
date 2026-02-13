@@ -15,6 +15,15 @@
 
 ---
 
+### 🤝 Connect with me
+<p align="left">
+  <a href="www.linkedin.com/in/muhammed-enes-yilmaz" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed enes yılmaz" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -39,11 +48,4 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eenesylmz&theme=radical" alt="eenesylmz" />
 </p>
 
----
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="www.linkedin.com/in/muhammed-enes-yilmaz" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed enes yılmaz" height="30" width="40" />
-  </a>
-</p>
